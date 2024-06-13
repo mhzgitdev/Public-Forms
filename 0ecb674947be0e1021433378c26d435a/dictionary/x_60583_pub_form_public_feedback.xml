@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="98cde78d47764e1021433378c26d430f" label="Public Feedback" max_length="40" name="x_60583_pub_form_public_feedback" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Comments" max_length="255" name="comments" type="string_full_utf8"/>
+        <element label="Description" max_length="255" name="description" type="string_full_utf8"/>
+        <element choice="1" label="State" max_length="40" name="state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Closed Complete" sequence="1" value="Closed Complete"/>
+                <element inactive_on_update="false" label="New" sequence="0" value="New"/>
+            </choice>
+        </element>
+    </element>
+</database>

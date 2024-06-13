@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>Public Feedback - Container 2</name>
+        <order>2</order>
+        <semantic_tag/>
+        <sp_page display_value="cc_feedback">af89f38d47b64e1021433378c26d433b</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-13 18:05:18</sys_created_on>
+        <sys_id>71b9778d47b64e1021433378c26d4300</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Public Feedback - Container 2</sys_name>
+        <sys_package display_value="Public Forms" source="x_60583_pub_form">0ecb674947be0e1021433378c26d435a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Public Forms">0ecb674947be0e1021433378c26d435a</sys_scope>
+        <sys_update_name>sp_container_71b9778d47b64e1021433378c26d4300</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-13 18:05:27</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Public Forms">0ecb674947be0e1021433378c26d435a</application>
+        <file_path/>
+        <instance_id>2c7115f7dbbc63807d8cf22ebf96198e</instance_id>
+        <instance_name>dev72192</instance_name>
+        <name>sp_container_71b9778d47b64e1021433378c26d4300</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name/><container_class_name/><name>Public Feedback - Container 2</name><order>2</order><semantic_tag/><sp_page display_value="cc_feedback">af89f38d47b64e1021433378c26d433b</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-13 18:05:18</sys_created_on><sys_id>71b9778d47b64e1021433378c26d4300</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Public Feedback - Container 2</sys_name><sys_package display_value="Public Forms" source="x_60583_pub_form">0ecb674947be0e1021433378c26d435a</sys_package><sys_policy/><sys_scope display_value="Public Forms">0ecb674947be0e1021433378c26d435a</sys_scope><sys_update_name>sp_container_71b9778d47b64e1021433378c26d4300</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-13 18:05:27</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+        <payload_hash>-1365237283</payload_hash>
+        <record_name>Public Feedback - Container 2</record_name>
+        <reverted_from/>
+        <source>46cb674947be0e1021433378c26d435c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-13 18:05:27</sys_created_on>
+        <sys_id>04c9b78d47b64e1021433378c26d43c8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19012c6a97b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-13 18:05:27</sys_updated_on>
+        <type>Container</type>
+        <update_guid>c8c9b78dfeb64e1042b0b0d7f32bf5c7</update_guid>
+        <update_guid_history>c8c9b78dfeb64e1042b0b0d7f32bf5c7:-1365237283,3db9b78de8b64e106cd74c3454f34cf3:-1295725986</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Public Feedback - Container 2">e5c9f78d47b64e1021433378c26d4304</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-13 18:05:33</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>951ffa5f55cd4e7f96cc129871862cd1</sys_id>
+        <sys_metadata>71b9778d47b64e1021433378c26d4300</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Public Feedback - Container 2</sys_name>
+        <sys_package display_value="Public Forms" source="x_60583_pub_form">0ecb674947be0e1021433378c26d435a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Public Forms">0ecb674947be0e1021433378c26d435a</sys_scope>
+        <sys_scope_delete display_value="">601d84fd012846dea103182d86a96b99</sys_scope_delete>
+        <sys_update_name>sp_container_71b9778d47b64e1021433378c26d4300</sys_update_name>
+        <sys_update_version display_value="sp_container_71b9778d47b64e1021433378c26d4300">04c9b78d47b64e1021433378c26d43c8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-13 18:05:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
